@@ -1,0 +1,16 @@
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\bin\Debug\net6.0-windows\student marks and grades system.exe
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\bin\Debug\net6.0-windows\student marks and grades system.deps.json
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\bin\Debug\net6.0-windows\student marks and grades system.runtimeconfig.json
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\bin\Debug\net6.0-windows\student marks and grades system.dll
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\bin\Debug\net6.0-windows\student marks and grades system.pdb
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student_marks_and_grades_system.Form1.resources
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.csproj.GenerateResource.cache
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.AssemblyInfoInputs.cache
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.AssemblyInfo.cs
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.dll
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\refint\student marks and grades system.dll
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.pdb
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\student marks and grades system.genruntimeconfig.cache
+C:\Users\Rayan\Desktop\practice systems\student marks and grades system\obj\Debug\net6.0-windows\ref\student marks and grades system.dll
